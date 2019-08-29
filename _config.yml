@@ -1,0 +1,70 @@
+---
+booktitle: Proceedings of the Eighth Symposium on Conformal and Probabilistic Prediction
+  and Applications
+shortname: COPA
+volume: 105
+year: '2019'
+start: 2019-09-09
+end: 2019-09-11
+published: 2019-08-29
+url: http://proceedings.mlr.press
+location: Golden Sands, Bulgaria
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COPA-2019
+month: 0
+cycles: false
+bibtex_editor: Gammerman, Alex and Vovk, Vladimir and Luo, Zhiyuan and Smirnov, Evgueni
+editor:
+- given: Alex
+  family: Gammerman
+- given: Vladimir
+  family: Vovk
+- given: Zhiyuan
+  family: Luo
+- given: Evgueni
+  family: Smirnov
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Eighth Symposium on Conformal and Probabilistic Prediction and Applications on 09-11 September 2019
+
+  Published as Volume 105 by the Proceedings of Machine Learning Research on 29 August 2019.
+
+  Volume Edited by:
+    Alex Gammerman
+    Vladimir Vovk
+    Zhiyuan Luo
+    Evgueni Smirnov
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '09--11 Sep'
+baseurl: "/v105"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v105
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conformal and Probabilistic Prediction and Applications
+  url: 
+  location: ''
+  dates:
+  - 2019-09-09
+  - 2019-09-10
+  - 2019-09-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v105/copa19.bib
