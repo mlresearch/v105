@@ -8,7 +8,6 @@ start: 2019-09-09
 end: 2019-09-11
 published: 2019-08-29
 url: http://proceedings.mlr.press
-location: Golden Sands, Bulgaria
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: COPA-2019
@@ -56,9 +55,9 @@ display:
   comments: false
 email: ''
 conference:
+  location: Golden Sands, Bulgaria
   name: Conformal and Probabilistic Prediction and Applications
-  url: 
-  location: ''
+  url: http://clrc.rhul.ac.uk/copa2019/
   dates:
   - 2019-09-09
   - 2019-09-10
